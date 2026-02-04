@@ -1,0 +1,77 @@
+**Module Name:** [Please enter your module name]
+
+**1. Core Objective & Plot Summary**
+
+*   **Core Objective (Player-Assigned):** [Describe the core objective or theme of this module.]
+*   **Plot Tone:** [Please choose: Slice of Life / Mystery / Survival / Exploration / Social / Other ______]
+*   **Logic Level:** [Mandatory Selection: Strictly Realistic Logic. Any supernatural, sci-fi, or fantasy elements are prohibited unless explicitly defined as scientifically explainable anomalies in the "Special Worldview Notes" below.]
+*   **Special Worldview Notes (if any):** [If left blank, it represents a completely ordinary real world.]
+
+**2. Initial Scene Definition**
+
+*   **Time:** [Please precisely set the starting time of the game.]
+*   **Location (Country/City/Specific Place):** [ ]
+*   **Environmental State (for KP's initial description):**
+    *   **Visual:** [ ]
+    *   **Auditory:** [ ]
+    *   **Olfactory:** [ ]
+    *   **Tactile/Somatosensory:** [ ]
+*   **PC (ubo)'s Initial State:**
+    *   **Attire:** [ ]
+    *   **Physical Condition:** [ ]
+    *   **Known Information:** [ ]
+    *   **Possessions (Initial):** [ ]
+
+**3. Key Locations & Items (Pre-defined)**
+
+*   **Location List:**
+    *   **[Location 1 Name]:** [Brief description.]
+    *   **[Location 2 Name]:** [Brief description.]
+    *   **[Location 3 Name]:** [Brief description.]
+    *   (... Add more as needed.)
+*   **Key Item List (Initially existing in the world):**
+    *   **[Item 1 Name & Initial Location]:** [Description.]
+    *   **[Item 2 Name & Initial Location]:** [Description.]
+    *   (... Add more as needed.)
+
+**4. Pre-set Plotlines & Event Hooks**
+
+*   **Main Plot Nodes (Potential):**
+    *   **Node A (Introduction):** [ ]
+    *   **Node B (Development):** [ ]
+    *   **Node C (Challenge):** [ ]
+    *   **Node D (Revelation/Climax):** [ ]
+    *   **Node E (Ending/Branch):** [ ]
+*   **Initial Event Hooks (Perceivable events occurring immediately/soon after game start):**
+    *   [ ]
+    *   [ ]
+
+**5. Major Non-Player Character (NPC) Profiles**
+
+*   **NPC 1: [Name]**
+    *   **Basic Profile:** [ ]
+    *   **Personality & Motivations:** [ ]
+    *   **Scope of Known Information (Initial):** [ ]
+    *   **Information Boundary:** [ ]
+    *   **Initial Favor/Attitude towards ubo:** [ ]
+*   **NPC 2: [Name]**
+    *   **Basic Profile:** [ ]
+    *   **Personality & Motivations:** [ ]
+    *   **Scope of Known Information (Initial):** [ ]
+    *   **Information Boundary:** [ ]
+    *   **Initial Favor/Attitude towards ubo:** [ ]
+*   **NPC 3: [Name]**
+    *   **Basic Profile:** [ ]
+    *   **Personality & Motivations:** [ ]
+    *   **Scope of Known Information (Initial):** [ ]
+    *   **Information Boundary:** [ ]
+    *   **Initial Favor/Attitude towards ubo:** [ ]
+    *   (... Add more NPCs as needed by the plot.)
+
+**6. KP Backend Event Pool (Initial Registration)**
+
+*   **Registered Events (Based on initial scene and preset hooks):**
+    1.  **Event ID:** E-001 | **Event Name:** | **Trigger Condition:** | **Potential Consequences:**
+    2.  **Event ID:** E-002 | **Event Name:** | **Trigger Condition:** | **Potential Consequences:**
+    3.  **Event ID:** E-003 | **Event Name:** | **Trigger Condition:** | **Potential Consequences:**
+        *   (This section will be dynamically updated by the KP in the turn logs during gameplay based on the rules.)
