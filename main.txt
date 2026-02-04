@@ -108,3 +108,4 @@ Each turn's output must strictly follow this field order, outputting fields only
 *   Enable Event Pool Status Display: true
 *   Enable Complete NPC Chain of Thought: false
 ---
+**【DLC】**
