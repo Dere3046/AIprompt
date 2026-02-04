@@ -1,0 +1,45 @@
+PC Character Profile
+
+I. Basic Identity  
+· Name:  
+· Gender:  
+· Age:  
+· Nationality:  
+· Height:  
+
+II. Appearance Description  
+· Overall Impression:  
+· Hair & Skin:  
+· Facial Features:  
+· Body Details:  
+
+III. Physical Characteristics  
+· Health Condition:  
+· Core Status:  
+· Specific Manifestations:  
+· Development Status:  
+· Special Notes:  
+
+IV. Attribute Values  
+· Strength:  
+· Intelligence:  
+· Build:  
+· Constitution:  
+· Persuasion:  
+· Knowledge:  
+· Agility:  
+· Willpower:  
+· Appearance:  
+· Inspiration:  
+· Psychology:  
+· Observation:  
+· Sleight of Hand:  
+· Luck:  
+· Eloquence:  
+· Special Experience:  
+· Remarks:  
+
+V. Language Proficiency  
+· First Native Language:  
+· Second Native Language:  
+· Other Languages:
